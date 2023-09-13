@@ -1,0 +1,29 @@
+.banner {
+ background-image: 
+ linear-gradient(rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),
+ url(../../images/Hamachi.jpeg);
+ background-size: cover;
+ background-position: center;
+ padding: 60px;
+ border-radius: 4px;
+ margin: 0px 0px;
+ 
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: maroon;
+
+}
+
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+ opacity: 0.8;
+ margin-bottom: 40px;
+
+}
